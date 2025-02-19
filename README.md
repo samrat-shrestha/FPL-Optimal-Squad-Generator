@@ -29,7 +29,7 @@ The Fantasy Premier League Squad Optimizer is a Python application designed to h
 
 2. Install the required libraries:
    ```bash
-   pip install numpy pandas scipy requests
+   pip install -r requirements.txt
    ```
 
 3. Run the application:
